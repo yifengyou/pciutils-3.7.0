@@ -46,6 +46,9 @@ Description  : The pciutils package contains various utilities for inspecting an
 ## 目录
 
 
+* [update-pciids脚本](docs/update-pciids.md)
+* [setpci](docs/setpci.md)
+* [lspci](docs/lspci.md)
 
 
 
