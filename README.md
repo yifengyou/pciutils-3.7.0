@@ -31,10 +31,11 @@ Description  : The pciutils package contains various utilities for inspecting an
 [root@rocky ~]# rpm -ql pciutils
 /lib64/libpci.so.3
 /lib64/libpci.so.3.6.4
+
 /sbin/lspci
 /sbin/setpci
 /sbin/update-pciids
-/usr/share/doc/pciutils
+
 /usr/share/doc/pciutils/COPYING
 /usr/share/doc/pciutils/ChangeLog
 /usr/share/doc/pciutils/README
