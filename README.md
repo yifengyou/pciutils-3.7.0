@@ -1,6 +1,8 @@
 # pciutils-3.7.0 学习
 
+**Peripheral Component Interconnect (PCI)**
 
+![20220630_113416_22](image/20220630_113416_22.png)
 
 ```
 Something I hope you know before go into the coding~
@@ -42,6 +44,7 @@ Description  : The pciutils package contains various utilities for inspecting an
 /usr/share/doc/pciutils/pciutils.lsm
 ```
 
+![20220630_122645_78](image/20220630_122645_78.png)
 
 ## 目录
 
@@ -54,14 +57,23 @@ Description  : The pciutils package contains various utilities for inspecting an
 
 
 
+## 图示
 
+![20220630_113740_31](image/20220630_113740_31.png)
 
+![20220630_113927_95](image/20220630_113927_95.png)
 
+![20220630_113829_24](image/20220630_113829_24.png)
 
+![20220630_114033_64](image/20220630_114033_64.png)
 
+![20220630_114057_36](image/20220630_114057_36.png)
 
+![20220630_114250_40](image/20220630_114250_40.png)
 
+![20220630_141410_76](image/20220630_141410_76.png)
 
+![20220630_171715_81](image/20220630_171715_81.png) 
 
 
 
