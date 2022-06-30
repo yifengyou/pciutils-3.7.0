@@ -53,6 +53,8 @@ Description  : The pciutils package contains various utilities for inspecting an
 * [update-pciids脚本](docs/update-pciids.md)
 * [setpci](docs/setpci.md)
 * [lspci](docs/lspci.md)
+* [python实现lspci](docs/python实现lspci.md)
+* [python解析pci config文件](docs/python解析pci_config文件.md)
 
 
 ## 总结
