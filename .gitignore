@@ -1,3 +1,4 @@
+output.*
 SRPMS/*
 RPMS/*
 BUILDROOT/*
