@@ -54,7 +54,9 @@ Description  : The pciutils package contains various utilities for inspecting an
 * [lspci](docs/lspci.md)
 
 
+## 总结
 
+* 每系统可以有256个PCI总线，每个总线上可以有32个设备，每个设备可以具有8个功能（每个功能作为一个PCI设备）[256*8*8 = 16384]
 
 
 ## 图示
@@ -73,7 +75,7 @@ Description  : The pciutils package contains various utilities for inspecting an
 
 ![20220630_141410_76](image/20220630_141410_76.png)
 
-![20220630_171715_81](image/20220630_171715_81.png) 
+![20220630_171715_81](image/20220630_171715_81.png)
 
 
 
