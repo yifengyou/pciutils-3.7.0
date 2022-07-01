@@ -60,6 +60,10 @@ Description  : The pciutils package contains various utilities for inspecting an
 ## 总结
 
 * 每系统可以有256个PCI总线，每个总线上可以有32个设备，每个设备可以具有8个功能（每个功能作为一个PCI设备）[256*8*8 = 16384]
+* 不管是lspci还是setpci都是跟sysfs打交道，通过读写sysfs中pci内容来实现具体功能
+* lspci用于显示外设整体配置，并通过pci.ids进行可视化显示
+* setpci可以读取外设寄存器某些具体参数，也可以显示具体参数
+* 掌握基本使用，接下来就是超多的PCI参数，不同外设参数不同，用到时再查查即可
 
 
 ## 图示
